@@ -1,6 +1,5 @@
 package jpabook.jpashop.service;
 
-import com.sun.tools.corba.se.idl.constExpr.GreaterEqual;
 import jpabook.jpashop.domain.item.Item;
 import jpabook.jpashop.repository.ItemRepository;
 import lombok.RequiredArgsConstructor;
